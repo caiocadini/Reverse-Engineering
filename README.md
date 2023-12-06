@@ -3,12 +3,14 @@ Resolução do Exercício [do site Crackmes.one](https://crackmes.one/crackme/5d
 
 ## Analisando o problema inicial
 ![image](https://github.com/caiocadini/Reverse-Engineering/assets/99414301/57eed8e1-2796-4d77-93c9-32c3f7767acf)
+
 Observa-se:
 * Textos de "Don't patch it!" e "Insert your password:"
 * input
 ## Analisando o arquivo login
 O arquivo inicial apresentava a seguinte aparência ao se tentar lê-lo 
 ![image](https://github.com/caiocadini/Reverse-Engineering/assets/99414301/7e8ce219-9412-4118-9b2e-e1be2b34c60a)
+
 Tornando-se necessário realizar seu tratamento
 
 ## Aplicando Ghidra
